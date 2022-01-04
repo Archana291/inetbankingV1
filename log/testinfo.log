@@ -1,0 +1,87 @@
+[main] INFO  ebanking  - URL has opened
+[main] INFO  ebanking  - Username entered
+[main] INFO  ebanking  - Password entered
+[main] INFO  ebanking  - Clicked on login
+[main] INFO  ebanking  - Login test passed
+[main] INFO  ebanking  - URL has opened
+[main] INFO  ebanking  - Username entered
+[main] INFO  ebanking  - Password entered
+[main] INFO  ebanking  - Clicked on login
+[main] INFO  ebanking  - URL has opened
+[main] INFO  ebanking  - Username entered
+[main] INFO  ebanking  - Password entered
+[main] INFO  ebanking  - Clicked on login
+[main] INFO  ebanking  - URL has opened
+[main] INFO  ebanking  - Username entered
+[main] INFO  ebanking  - Password entered
+[main] INFO  ebanking  - Clicked on login
+[main] INFO  ebanking  - URL has opened
+[main] INFO  ebanking  - Username entered
+[main] INFO  ebanking  - Password entered
+[main] INFO  ebanking  - Clicked on login
+[main] INFO  ebanking  - Login test failed
+[main] INFO  ebanking  - URL has opened
+[main] INFO  ebanking  - Username entered
+[main] INFO  ebanking  - Password entered
+[main] INFO  ebanking  - Clicked on login
+[main] INFO  ebanking  - Login test failed
+[main] INFO  ebanking  - URL has opened
+[main] INFO  ebanking  - Username entered
+[main] INFO  ebanking  - Password entered
+[main] INFO  ebanking  - Clicked on login
+[main] INFO  ebanking  - Login test passed
+[main] INFO  ebanking  - username Provided
+[main] INFO  ebanking  - password provided
+[main] INFO  ebanking  - Valid username and password
+[main] INFO  ebanking  - username Provided
+[main] INFO  ebanking  - password provided
+[main] INFO  ebanking  - username Provided
+[main] INFO  ebanking  - password provided
+[main] INFO  ebanking  - username Provided
+[main] INFO  ebanking  - password provided
+[main] INFO  ebanking  - Valid username and password
+[main] INFO  ebanking  - username Provided
+[main] INFO  ebanking  - password provided
+[main] INFO  ebanking  - User name is provided
+[main] INFO  ebanking  - password is provided
+[main] INFO  ebanking  - Providing customer details...
+[main] INFO  ebanking  - Customer IS has been provided
+[main] INFO  ebanking  - state has been changed
+[main] INFO  ebanking  - Customer IS has been provided
+[main] INFO  ebanking  - state has been changed
+[main] INFO  ebanking  - Customer IS has been provided
+[main] INFO  ebanking  - state has been changed
+[main] INFO  ebanking  - clicked submit
+[main] INFO  ebanking  - Edit is successful
+[main] INFO  ebanking  - Customer IS has been provided
+[main] INFO  ebanking  - User name is provided
+[main] INFO  ebanking  - password is provided
+[main] INFO  ebanking  - Providing customer details...
+[main] INFO  ebanking  - User name is provided
+[main] INFO  ebanking  - password is provided
+[main] INFO  ebanking  - Providing customer details...
+[main] INFO  ebanking  - User name is provided
+[main] INFO  ebanking  - password is provided
+[main] INFO  ebanking  - Providing customer details...
+[main] INFO  ebanking  - validation started...!
+[main] INFO  ebanking  - test case passed
+[main] INFO  ebanking  - User name is provided
+[main] INFO  ebanking  - password is provided
+[main] INFO  ebanking  - Providing customer details...
+[main] INFO  ebanking  - validation started...!
+[main] INFO  ebanking  - test case passed
+[main] INFO  ebanking  - User name is provided
+[main] INFO  ebanking  - password is provided
+[main] INFO  ebanking  - Providing customer details...
+[main] INFO  ebanking  - validation started...!
+[main] INFO  ebanking  - test case passed
+[main] INFO  ebanking  - User name is provided
+[main] INFO  ebanking  - password is provided
+[main] INFO  ebanking  - Providing customer details...
+[main] INFO  ebanking  - validation started...!
+[main] INFO  ebanking  - test case passed
+[main] INFO  ebanking  - User name is provided
+[main] INFO  ebanking  - password is provided
+[main] INFO  ebanking  - Providing customer details...
+[main] INFO  ebanking  - validation started...!
+[main] INFO  ebanking  - test case passed
